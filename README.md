@@ -19,7 +19,7 @@ Neste sprint, o foco é aplicar técnicas de **programação dinâmica** — esp
 ## Estrutura do Repositório
 
 ```
-├── Tarefa1.py   # Código com as 3 tarefas implementadas
+├── Tarefas.py   # Código com as 3 tarefas implementadas
 └── README.md
 ```
 
