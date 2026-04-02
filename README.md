@@ -145,7 +145,11 @@ TAREFA 3 — Otimização de Agenda com Memoização
 
 | Nome | RM |
 |---|---|
-| Enzo Luciano | — |
+| Enzo Luciano | 559557 |
+| Alexandre Colvet Delfino | 560059 |
+| Pedro Claudino Scarceli | 561023 |
+| Samuel Baecker | 559269 |
+| Luigi Thiengo | 560755 |
 
 ---
 
