@@ -91,7 +91,7 @@ A função `melhor_encaixe()` testa recursivamente todas as combinações possí
 Necessário apenas Python 3.x, sem dependências externas.
 
 ```bash
-python Tarefa1.py
+python Tarefas.py
 ```
 
 **Saída esperada:**
