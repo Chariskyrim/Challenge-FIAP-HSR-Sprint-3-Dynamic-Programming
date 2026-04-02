@@ -100,18 +100,18 @@ python Tarefas.py
 TAREFA 1 — Verificação Recursiva de Duplicidade
 =======================================================
   Lead 'Carlos Silva': DUPLICATA — cadastro bloqueado
-  Lead 'Felipe Gomes': NOVO LEAD  — cadastro liberado
+  Lead 'Jorge Costa': NOVO LEAD  — cadastro liberado
 
 =======================================================
 TAREFA 2 — Verificação com Memoização
 =======================================================
   [1ª chamada — processando e armazenando no cache]
   Lead 'Carlos Silva': DUPLICATA — cadastro bloqueado
-  Lead 'Felipe Gomes': NOVO LEAD  — cadastro liberado
+  Lead 'Jorge Costa': NOVO LEAD  — cadastro liberado
 
   [2ª chamada — resultado recuperado do cache, sem reprocessar]
   Lead 'Carlos Silva': DUPLICATA — cadastro bloqueado
-  Lead 'Felipe Gomes': NOVO LEAD  — cadastro liberado
+  Lead 'Jorge Costa': NOVO LEAD  — cadastro liberado
 
 =======================================================
 TAREFA 3 — Otimização de Agenda com Memoização

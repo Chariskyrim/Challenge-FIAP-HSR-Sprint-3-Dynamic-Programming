@@ -25,9 +25,9 @@ lead_duplicado = {
 }
 
 lead_novo = {
-    "nome": "Felipe Gomes",
+    "nome": "Jorge Costa",
     "telefone": "11999990099",
-    "email": "felipe@email.com",
+    "email": "jorge@email.com",
     "cpf": "999.999.999-88"
 }
 
